@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "1",
+        "Title": "Overcoming addictions",
+        "Text" : "To have a clear mind, we first need to understand our addictions and overcome them."
+    },  
+    {
+        "Id": "2",
+        "Title": "Building a resilient mindset",
+        "Text" : "After understanding what prevents us from overcoming our difficulties, we need to start building our resilient mindset."
+    },
+    {
+        "Id": "3",
+        "Title": "Starting a realistic change",
+        "Text" : "Now, we must be realistic and understand that having a resilient mindset is not that simple, and that we must start slowly."
+    },
+    {
+        "Id": "4",
+        "Title": "Turning nothing into something",
+        "Text" : "It is true that many times, we are overcome by our own procastination and laziness, we will understand how to overcome this immense obstacle."
+    },
+    {
+        "Id": "5",
+        "Title": "Overcoming fears",
+        "Text" : "The great enemy of anyone who wants to start developing is fear. we will explore why we are afraid of change and how to deal with this fear."
+    },
+    {
+        "Id": "6",
+        "Title": "Small steps, big achievements",
+        "Text" : "Even a plane needs to start slowly to take off into the skies..."
+    }
+]

@@ -1,0 +1,25 @@
+.link {
+    text-decoration: none;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: rgb(85, 85, 85);
+    box-sizing: border-box;
+    border-bottom:2px solid transparent;
+    padding-bottom:2px;
+    transition: ease-in-out .4s;
+}
+
+.linkInUse {
+    color:rgb(0, 132, 255);
+    text-shadow: 0 0 15px rgb(17, 33, 124);
+}
+
+.link:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.linkInUse:hover{
+    color:rgb(0, 132, 255);
+    border-bottom: 2px solid rgb(0, 132, 255);
+}
